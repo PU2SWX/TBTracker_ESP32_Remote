@@ -27,7 +27,7 @@ SX1278 radio = new Module(LORA_NSS, LORA_DIO0, LORA_RESET, LORA_DIO1);
 #endif
 
 // ===================== WIFI CONFIG ===============================
-const char* ssid = "Base-de-Controle-TB";
+const char* ssid = "TBTracker_ESP32_Remote";
 const char* password = "12345678";
 WebServer server(80);
 
@@ -67,13 +67,13 @@ const char PAGE[] PROGMEM = R"rawliteral(
 
     <div class="card">
       <h3>💡 Comandos Rápidos (GPIO)</h3>
-      <button class="btn-green" onclick="execCmd(2,1)">LIGAR LED (2)</button>
-      <button class="btn-red" onclick="execCmd(2,0)">DESLIGAR LED (2)</button>
+      <button class="btn-green" onclick="execCmd(1,1)">LIGAR LED (1)</button>
+      <button class="btn-red" onclick="execCmd(1,0)">DESLIGAR LED (1)</button>
     </div>
 
     <div class="card">
       <h3>⚙️ Ajuste de Frequência</h3>
-      <input type="number" id="freqInput" step="0.001" value="432.662">
+      <input type="number" id="freqInput" step="0.001" value="430.430">
       <button class="btn-blue" onclick="updateFreq()">SINTONIZAR</button>
     </div>
 
