@@ -10,6 +10,7 @@ Modo Simulação (MOCK): Permite testar a interface web mesmo sem um módulo LoR
 O código utiliza a pinagem padrão para placas ESP32 comuns conectadas a módulos LoRa:
 SCK: 18 | MISO: 19 | MOSI: 23
 NSS/CS: 5 | DIO0: 34 | RESET: 33 | DIO1: 32
+
 🇺🇸 English: Web-Based LoRa Remote Control Station (ESP32)
 This project turns an ESP32 equipped with a LoRa (SX1278) module into a web-interfaced ground station. It is optimized for communicating with high-altitude balloon trackers (such as TBTracker) using Mode 2 parameters.
 🚀 Features
@@ -23,6 +24,5 @@ The code is configured for standard ESP32 boards wired to LoRa modules:
 SCK: 18 | MISO: 19 | MOSI: 23
 NSS/CS: 5 | DIO0: 34 | RESET: 33 | DIO1: 32
 
-Este é  um exemplo de controle remoto que envia mensagens para o TBTracker-ESP32 usando o Horus V3 e tem a opção de ligar e desligar o pino GPIO1 do ESP32C3 super mini.
-Usa uma interface web gerada no endereço 192.168.4.1 com a senha 12345678
-um short de exemplo https://youtube.com/shorts/_tZyddu_1k8?si=1nz096E3HbTkfmlt
+
+Um short de exemplo https://youtube.com/shorts/_tZyddu_1k8?si=1nz096E3HbTkfmlt
