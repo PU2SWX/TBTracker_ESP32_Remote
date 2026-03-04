@@ -24,5 +24,9 @@ The code is configured for standard ESP32 boards wired to LoRa modules:
 SCK: 18 | MISO: 19 | MOSI: 23
 NSS/CS: 5 | DIO0: 34 | RESET: 33 | DIO1: 32
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ID_DO_VIDEO">
+    <img src="https://img.youtube.com/vi/JWPuELfmqUA/0.jpg" alt="Assista ao vídeo: Horus V3 no TBTRACKER-ESP32">
+  </a>
+</p>
 
-Um short de exemplo https://youtube.com/shorts/JWPuELfmqUA?si=Wv9O_jIMdZzye38_
