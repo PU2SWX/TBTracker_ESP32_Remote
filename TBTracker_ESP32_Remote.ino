@@ -15,6 +15,10 @@
 // pinos para o ESP32C3 super mini
 //pinos para o esp32c3
 /*
+#define SCK 4
+#define MISO 5
+#define MOSI 6
+#define CS 7
 #define PIN_NSS 7
 #define PIN_DIO0 3
 #define PIN_BUSY -1     
