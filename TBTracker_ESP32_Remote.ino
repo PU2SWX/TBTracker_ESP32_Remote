@@ -69,7 +69,7 @@ const char PAGE[] PROGMEM = R"rawliteral(
 <body>
   <div class="container">
     <h2>📡 Base Multi-Sonda</h2>
-    <div class="status" id="st-freq">Frequência: 432.662 MHz (Modo 2)</div>
+    <div class="status" id="st-freq">Frequência: 430.430 MHz (Modo 2)</div>
 
     <div class="card">
       <h3>💬 Enviar Mensagem/Comando</h3>
