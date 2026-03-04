@@ -18,12 +18,10 @@
 #define MISO 5
 #define MOSI 6
 #define CS 7
-#define PIN_NSS 7
-#define PIN_DIO0 3
-#define PIN_BUSY -1     
-#define PIN_RESET 10
-#define PIN_DIO1 2
-#define PIN_DIO2 -1  
+#define LORA_NSS 7
+#define LORA_DIO0 3    
+#define LORA_RESET 10
+#define LORA_DIO1 2 
 */
 #define MOCK_LORA 0 // 0 = Transmissão Real, 1 = Apenas simulação
 
