@@ -25,4 +25,4 @@ SCK: 18 | MISO: 19 | MOSI: 23
 NSS/CS: 5 | DIO0: 34 | RESET: 33 | DIO1: 32
 
 
-Um short de exemplo https://youtube.com/shorts/_tZyddu_1k8?si=1nz096E3HbTkfmlt
+Um short de exemplo https://youtube.com/shorts/JWPuELfmqUA?si=Wv9O_jIMdZzye38_
