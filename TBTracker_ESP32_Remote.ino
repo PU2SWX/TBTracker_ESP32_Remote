@@ -13,7 +13,6 @@
 #define LORA_RESET  33
 #define LORA_DIO1   32 
 // pinos para o ESP32C3 super mini
-//pinos para o esp32c3
 /*
 #define SCK 4
 #define MISO 5
@@ -24,7 +23,7 @@
 #define PIN_BUSY -1     
 #define PIN_RESET 10
 #define PIN_DIO1 2
-#define PIN_DIO2 -1  // Only used for AFSK / APRS
+#define PIN_DIO2 -1  
 */
 #define MOCK_LORA 0 // 0 = Transmissão Real, 1 = Apenas simulação
 
