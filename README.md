@@ -25,8 +25,9 @@ SCK: 18 | MISO: 19 | MOSI: 23
 NSS/CS: 5 | DIO0: 34 | RESET: 33 | DIO1: 32
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ID_DO_VIDEO">
+  <a href="https://youtube.com/shorts/JWPuELfmqUA?si=PwcyePewAzN6RedN">
     <img src="https://img.youtube.com/vi/JWPuELfmqUA/0.jpg" alt="Assista ao vídeo: Horus V3 no TBTRACKER-ESP32">
   </a>
 </p>
 
+https://youtube.com/shorts/JWPuELfmqUA?si=PwcyePewAzN6RedN
