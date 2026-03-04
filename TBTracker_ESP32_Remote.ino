@@ -3,7 +3,7 @@
 #include <RadioLib.h>
 
 // ===================== CONFIGURAÇÃO HARDWARE =====================
-// Usando a pinagem detectada no seu Settings.h
+// Pinos para o ESP32 DEV KIT
 #define SCK 18
 #define MISO 19
 #define MOSI 23
@@ -12,7 +12,16 @@
 #define LORA_DIO0   34  
 #define LORA_RESET  33
 #define LORA_DIO1   32 
-
+// pinos para o ESP32C3 super mini
+//pinos para o esp32c3
+/*
+#define PIN_NSS 7
+#define PIN_DIO0 3
+#define PIN_BUSY -1     
+#define PIN_RESET 10
+#define PIN_DIO1 2
+#define PIN_DIO2 -1  // Only used for AFSK / APRS
+*/
 #define MOCK_LORA 0 // 0 = Transmissão Real, 1 = Apenas simulação
 
 // ===================== PARÂMETROS MODO 2 (TBTracker) =============
